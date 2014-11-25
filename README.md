@@ -32,3 +32,7 @@ CSE 360
 once it all is configured project is ready to run from home.jsp
 
 youtube link:https ://www.youtube.com/watch?v=02YG9iaYEgw
+
+License:
+You can use it as you like until and unless all the changes that you make to the project should be accessible to everyone
+
