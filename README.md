@@ -27,6 +27,12 @@ CSE 360
 4) now click on server 
 5) import the 3 files for database.
 
+--for functional tests
+1) download selenium IDE 
+2)Use firefox browser 
+3) open the Selenium ide and import the test cases 
+4) run the test cases to see if they are successful
+
 
 
 once it all is configured project is ready to run from home.jsp
